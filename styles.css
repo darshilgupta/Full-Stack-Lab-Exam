@@ -1,0 +1,146 @@
+body{
+    background-image: url(https://media.istockphoto.com/photos/portrait-of-a-caucasian-female-dentist-in-her-office-picture-id1277540215?b=1&k=20&m=1277540215&s=170667a&w=0&h=HbZarBwqhQvAlxvnj5X81grAVlESwD5TMEy4qB7Y-PI=);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    margin-left: 30px;
+}
+
+h1 .fa-plus{
+    color: rgb(135, 235, 160);
+}
+
+header h4{
+    float: right;
+    margin-right: 30px;
+    margin-top: -39px;
+}
+
+.contacts{
+    margin-right: 100px;
+}
+
+.dentist{
+    margin-top: 120px;
+    margin-left: 70px;
+    font-size: 40px;
+}
+ .website-using{
+     margin-left: 70px;
+     margin-top: -10px;
+ }
+
+ .icon-1{
+     width: 50px;
+     height: 50px;
+     border-radius: 50%;
+     background-color: rgb(21, 226, 209);
+     float: left;
+     margin-left: 80px;
+     text-align: center;
+     color: #fff;
+
+ }
+
+ .icon-1 .fa{
+     margin-top: 15px;
+     font-size: 20px;
+ }
+
+ .icons{
+     width: 50px;
+     height: 270px;
+     background-color: #fff;
+     float: right;
+     margin-top: -245px;
+     margin-right: 40px;
+     padding: 5px;
+     padding-top: 12px;
+     text-align: center;
+     border-radius: 5px;
+ }
+
+ .icons .bi{
+    font-size: 25px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid grey;
+ }
+
+ .container-1{
+     width: 335px;
+     height: 250px;
+     background-color: skyblue;
+     margin-top: 100px;
+     margin-left:-220px;
+     float: left;
+     border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 30px;
+ }
+
+ .container-1 h1{
+     margin-left: 0;
+     color: rgb(0, 119, 255);
+     font-weight: 200;
+ }
+
+ .container-1 button{
+     border-style: none;
+     width: 110px;
+     height: 40px;
+     border-radius: 25px;
+ }
+
+ .container-2{
+    width: 335px;
+    height: 270px;
+    background-color: rgb(135, 235, 180);
+    margin-top: 80px;
+    float: left;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 30px;
+}
+
+.container-2 .fa{
+    margin-top: 32px;
+    font-size: 30px;
+    color: rgb(0, 119, 255);
+}
+
+.container-2 button{
+    border-style: none;
+    width: 110px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+
+.container-3{
+    width: 320px;
+    height: 230px;
+    background-color: skyblue;
+    margin-top: 105px;
+    float: left;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 30px;
+    padding-top: 48px;
+}
+.container-3 .bi{
+    margin-top: 200px;
+    font-size: 30px;
+    color: rgb(0, 119, 255);
+}
+
+.container-3 button{
+    border-style: none;
+    width: 110px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 18px;
+}
